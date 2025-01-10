@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend with chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript"
+  },
+  "author": "Drishti",
+  "license": "ISC"
+}
